@@ -5,8 +5,8 @@ from datetime import datetime
 from telebot import types
 
 # Инициализация бота
-bot = telebot.TeleBot('7021527136:AAEvRNC6PZSr8LNHjAdh1KsPeMSemY5z9rM')  # Замените на ваш токен бота
-admin_id = 698076226  # Замените на ID администратора
+bot = telebot.TeleBot('')  # Замените на ваш токен бота
+admin_id =   # Замените на ID администратора
 
 # Глобальные словари для хранения данных пользователей и состояний регистрации
 user_data = {}
